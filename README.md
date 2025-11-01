@@ -51,7 +51,7 @@
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
+- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/yourfriend143/Nayi)
 
 ---
 
